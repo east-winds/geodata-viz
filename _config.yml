@@ -3,7 +3,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 
 # Name of website
-title: Geodata Viz
+title: Geodata Vizualizations
 description: Geodata visualizations
 name: Michael Davidson
 pagination: true
@@ -12,6 +12,14 @@ paginate: 20
 url: https://mdavidson.org/
 baseurl: /geodata-viz
 
+# Site Author / Left hand bar
+author:
+  name: "Davidson Lab"
+  avatar: "/assets/img/MODIS_screenshot.png"
+  bio: "Geospatial visualizations"
+
+
+# --- Additional page parameters --- #
 
 words_per_minute: 200
 
