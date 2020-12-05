@@ -18,7 +18,7 @@ author:
   avatar: "/assets/img/MODIS_screenshot.png"
   bio: "Geospatial visualizations"
   home: https://mdavidson.org/
-
+  github: east-winds
 
 # --- Additional page parameters --- #
 
@@ -43,8 +43,6 @@ navbar-links:
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  github: east-winds
 
 # Select which links to show in the footer
 footer-links-active:
